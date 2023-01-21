@@ -35,6 +35,10 @@ img {
     margin:10px;
 }
 
+.clear{
+    clear:both; 
+}
+
 #container {
     margin-top:20%;
     margin-left:10%;
